@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on [Famoun Website](famoun.com)
 
-- 🌱 I’m currently learning **NodeJS**
-
 - 👨‍💻 All of my projects are available at [sepehrsohrabi.dev](sepehrsohrabi.dev)
 
-- 💬 Ask me about **Django, React Native**
+- 💬 Ask me about **Django, React Native, and NodeJS**
 
 - 📫 How to reach me **sepehr0sohrabi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1B6NCcDe7obw2BhRSHgzwY5_G7g28GNhr5kkEi7ijqhc/edit?usp=sharing](https://docs.google.com/document/d/1B6NCcDe7obw2BhRSHgzwY5_G7g28GNhr5kkEi7ijqhc/edit?usp=sharing)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sepehrsohrabi)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
